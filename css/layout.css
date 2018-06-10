@@ -259,7 +259,7 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 0px;
 }
 #resume h4 {
-   font: 15px/20px 'opensans-bold', sans-serif;
+   font: 16px/30px 'opensans-bold', sans-serif;
     margin-bottom: 0px;
 }
 
@@ -301,7 +301,7 @@ ul#nav li.current a { color: #F06000; }
 
 /* Diana's additional styles */
 #resume .info2 {
-   font: 12px/14px 'librebaskerville-italic', serif;
+   font: 16px/24px 'librebaskerville-italic', serif; /* 12px/14px */
    color: #6E7881;
    margin-bottom: 8px;
    margin-top: -5px;
@@ -311,7 +311,7 @@ ul#nav li.current a { color: #F06000; }
    margin-left: 5px;
 }
 #resume .date2 {
-   font: 12px/14px 'opensans-regular', sans-serif;
+   font: 15px/24px 'opensans-regular', sans-serif; /* 12px/14px */
    margin-top: -5px;
 }
 
