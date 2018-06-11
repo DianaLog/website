@@ -202,6 +202,7 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 12px;
 }
 #about p {
+   font: 'opensans-light', sans-serif;  
    line-height: 30px;
    color: #7A7A7A;
 }
@@ -1210,11 +1211,13 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+
+/* Diana's additional styles */
 .condensedlines {              
     font-size:   10pt;
     line-height: 10pt;  /* try also a bit smaller line-height */
-    margin-top: -10px;
+    margin-top: 0px;
     margin-bottom: -12px;
-
+    font: 'opensans-light', sans-serif;  
 }
 
